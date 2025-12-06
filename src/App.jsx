@@ -18,7 +18,7 @@ import Polisherfourbearings from "./ProductsPage/Polisherfourbearings";
 import BenchGrinder2BearingSingle from "./ProductsPage/BenchGrinder2BearingSingle";
 import BenchGrinder2BearingThree from "./ProductsPage/BenchGrinder2BearingThree";
 import GrindercumPolisher2Bearings from "./ProductsPage/GrindercumPolisher2Bearings";
-import FlexibleshaftGrinder from "./ProductsPage/flexibleshaftGrinder";
+import FlexibleshaftGrinder from "./ProductsPage/abc";
 import HeavyDoubleSide from "./ProductsPage/HeavyDoubleSide";
 
 const routes = createBrowserRouter(
