@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+#productsShowcase img {
+    width: 31vw;
+    object-fit: cover;
+}
+
+.buy {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 50px;
+    text-transform: capitalize;
+    padding-top: 10vh;
+    border-bottom: 1px solid black;
+}

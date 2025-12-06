@@ -1,0 +1,21 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  
+}
+
+@tailwind base; @tailwind components; @tailwind utilities;
+
+/* src/index.css */
+body {
+  background-color: white; /* Ensure background is always white */
+  color: #333; /* Ensure text color is set to a readable color */
+}
+
+.container {
+  background-color: rgb(167, 77, 113); /* Ensure background is always white */
+    /* Ensure container background is always white */
+}
+
+
+
+/* You can add more specific styling to make sure all elements have the desired background color */
