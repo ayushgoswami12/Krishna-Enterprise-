@@ -39,7 +39,7 @@ function MainPage() {
       <div className="flex md:mt-32 mt-10 flex-col md:flex-row justify-around items-center px-4">
         {/* Text Content */}
         <div className="w-full md:w-1/2 p-4 text-center md:text-left">
-          <div className="promo text-gray-900">We are</div>
+          <div className="promo text-gray-900">We are also</div>
           <h2 className="text-3xl sm:text-4xl md:text-6xl font-bold mb-4">
             Passionate.
             <br />
